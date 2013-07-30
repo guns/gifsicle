@@ -167,7 +167,7 @@ static int unoptimizing = 0;
 static int install_colormap = 0;
 static int interactive = 1;
 static int min_delay = 0;
-static int fallback_delay = 0;
+static int fallback_delay = 8;
 
 static struct timeval preparation_time;
 
